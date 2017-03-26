@@ -1,1 +1,1 @@
-print('test pull')
+TEXT_HI = 'Hello DUDE'
